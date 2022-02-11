@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    }
+    
+    #dot {
+        background-color: rgb(255, 0, 0);
+        margin: auto;
+        width: 100vh;
+        height: 100vh;
+        border-radius: 50%;
+      }
